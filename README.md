@@ -17,7 +17,7 @@ NVL2(expr1, yes, no)-- Conditional output based on NULL.
 
 (IS NULL ,IS NOT NULL)   filter records based on NULL values.
 
---Update
+-Update
 UPDATE emp1 SET column1 = --- WHERE column2 = --;(varchar2() then use ' ')
 
 ---Delete
