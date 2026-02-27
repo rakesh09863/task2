@@ -6,7 +6,7 @@ we want to create table first by using create command"create table table_name(na
 create table table_name(.....);
 
 ---Data Insertion using "inset into table table_name"
-INSERT INTO emp1 values (.......);
+INSERT INTO emp1 values (.......); 
 INSERT INTO emp1(.......) VALUES (....);
 INSERT INTO emp1 values(&.., &.., &...);
 
