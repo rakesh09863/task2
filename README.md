@@ -1,6 +1,6 @@
 Task 2 : Data Insertion and Handling Nulls 
  
-we want to create table first by using create command"create table table_name(name datatype);"
+we want to create table first by using create command"create table table_name(name datatype);" 
 
 --table: emp1
 create table table_name(.....);
